@@ -1,2 +1,46 @@
-# hackernews-source
-The Sources for my Hacker News Submissions.
+# Hacker News Source
+
+Sources of submissions by [/Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar) on Hacker News.
+
+- https://www.newsminimalist.com/?category=technology&from=5&to=10
+- https://www.abc.net.au/news/topic/science-and-technology
+- https://apnews.com/science
+- https://arstechnica.com/
+- https://www.atlasobscura.com/
+- https://www.axios.com/technology
+- https://www.bbc.com/future-planet
+- https://bigthink.com/
+- https://www.bloomberg.com/technology
+- https://www.cbsnews.com/science/
+- https://edition.cnn.com/science
+- https://eos.org/
+- https://www.ft.com/technology
+- https://fortune.com/section/tech/
+- https://www.freethink.com/
+- https://github.com/trending
+- https://grist.org/technology/
+- https://spectrum.ieee.org/
+- https://knowablemagazine.org/
+- https://www.livescience.com/
+- https://www.technologyreview.com/
+- https://www.nature.com/
+- https://nautil.us/
+- https://newatlas.com/
+- https://www.newscientist.com/
+- https://www.nytimes.com/section/science
+- https://opensource.net/
+- https://phys.org/
+- https://restofworld.org/
+- https://www.reuters.com/technology/
+- https://www.science.org/
+- https://www.scientificamerican.com/
+- https://singularityhub.com/
+- https://news.sky.com/science-climate-tech
+- https://www.smithsonianmag.com/
+- https://www.space.com/
+- https://techxplore.com/
+- https://www.economist.com/topics/science-and-technology
+- https://www.theguardian.com/technology
+- https://www.theregister.com/
+- https://www.wired.com/category/science/
+- https://www.wsj.com/tech
