@@ -1,6 +1,6 @@
 # Hacker News Source
 
-Sources of submissions by [/Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar) on Hacker News.
+> Hacker News Submission Sources by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar).
 
 - https://www.newsminimalist.com/?category=technology&from=5&to=10
 - https://www.abc.net.au/news/topic/science-and-technology
