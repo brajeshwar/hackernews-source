@@ -1,8 +1,9 @@
 # Hacker News Source
 
-> Hacker News Submission Sources by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar).
+> Hacker News Submission Sources by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar)
 
 - https://newsminimalist.com/?category=technology&from=5&to=10
+- https://particle.news/#technology
 
 ## A
 
