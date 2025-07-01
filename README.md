@@ -40,7 +40,7 @@
 ## G
 
 - https://github.com/trending
-- https://grist.org/technology/
+- https://grist.org/
 
 ## K
 
