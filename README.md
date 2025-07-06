@@ -28,7 +28,6 @@
 
 - https://economist.com/topics/science-and-technology
 - https://edition.cnn.com/science
-- https://engadget.com/news
 - https://eos.org
 
 ## F
