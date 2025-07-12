@@ -56,6 +56,7 @@
 - https://newatlas.com
 - https://news.sky.com/science-climate-tech
 - https://newscientist.com
+- https://www.npr.org
 - https://nytimes.com/section/science
 
 ## O
