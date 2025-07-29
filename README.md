@@ -65,10 +65,6 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 - https://www.npr.org
 - https://nytimes.com/section/science
 
-## O
-
-- https://opensource.net
-
 ## P
 
 - https://phys.org
