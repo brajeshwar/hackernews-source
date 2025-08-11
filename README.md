@@ -30,7 +30,6 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 - https://economist.com/topics/science-and-technology
 - https://edition.cnn.com/science
-- https://eos.org
 
 ## F
 
