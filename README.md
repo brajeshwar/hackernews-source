@@ -67,6 +67,7 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 ## P
 
 - https://phys.org
+- https://www.popsci.com
 
 ## R
 
