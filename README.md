@@ -1,6 +1,6 @@
 # Hacker News Source
 
-> Hacker News Submission Sources by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar)
+> [Hacker News](https://news.ycombinator.com) Submission Sources by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar)
 
 _Disclaimer: I’ve no affiliation with any of the sources. These are just the ones I browse around and pick the interesting articles to submit to Hacker News._
 
