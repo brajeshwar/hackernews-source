@@ -6,7 +6,7 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 - https://newsminimalist.com/?category=technology&from=5&to=10
 - https://particle.news/#technology
-- https://kite.kagi.com/f30fe911-287d-4d4e-a3b6-708e6e98ca0d/tech
+- https://kite.kagi.com/
 
 ## A
 
