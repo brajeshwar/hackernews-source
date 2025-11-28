@@ -77,6 +77,7 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 ## S
 
 - https://science.org
+- https://scienceclock.com
 - https://scientificamerican.com
 - https://singularityhub.com
 - https://smithsonianmag.com
