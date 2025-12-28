@@ -69,6 +69,10 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 - https://phys.org
 - https://www.popsci.com/category/technology/
 
+## Q
+
+- https://www.quantamagazine.org/computer-science/
+
 ## R
 
 - https://restofworld.org
