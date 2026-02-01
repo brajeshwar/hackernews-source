@@ -9,7 +9,6 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 ## A
 
-- https://abc.net.au/news/topic/science-and-technology
 - https://aeon.co
 - https://apnews.com/science
 - https://arstechnica.com
@@ -18,13 +17,13 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 ## B
 
-- https://bbc.com/future-planet
+- https://bbc.com/
 - https://bigthink.com
-- https://bloomberg.com/technology
+- https://bloomberg.com/
 
 ## C
 
-- https://cbsnews.com/science
+- https://cbsnews.com/
 
 ## E
 
@@ -59,7 +58,7 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 - https://nature.com
 - https://nautil.us
 - https://newatlas.com
-- https://news.sky.com/science-climate-tech
+- https://news.sky.com
 - https://newscientist.com
 - https://www.npr.org
 - https://nytimes.com/section/science
@@ -67,11 +66,11 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 ## P
 
 - https://phys.org
-- https://www.popsci.com/category/technology/
+- https://www.popsci.com
 
 ## Q
 
-- https://www.quantamagazine.org/computer-science/
+- https://www.quantamagazine.org
 
 ## R
 
@@ -91,10 +90,10 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 - https://technologyreview.com
 - https://techxplore.com
-- https://theguardian.com/technology
+- https://theguardian.com
 - https://theregister.com
 
 ## W
 
-- https://wired.com/category/science
+- https://wired.com
 - https://wsj.com/tech
