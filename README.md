@@ -9,7 +9,6 @@ _Disclaimer: I’ve no affiliation with any of the sources. These are just the o
 
 ## A
 
-- https://aeon.co
 - https://apnews.com/science
 - https://arstechnica.com
 - https://atlasobscura.com
